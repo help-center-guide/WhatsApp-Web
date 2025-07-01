@@ -3,9 +3,9 @@ How to Set Up WhatsApp Web on Your Browser via web.whatsapp.com
 
 web.whatsapp.com is the official portal to connect your phone with your device. In case you're attempting to link your WhatsApp account on your computer with web.whatsapp.com, but it seems like it’s not functioning properly. This tutorial is going to show you the step-by-step process of how to use WhatsApp Web and then give you simple and quick fixes for most problems which users encounter while trying to get connected
 
-.. image:: get-start-button.png
+.. image:: get.png
    :alt: WhatsApp Web
-   :target:  https://fm.ci/?aHR0cHM6Ly93ZWJ3aGF0c2FwcC1oZWxwZ3VpZGUucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
+   :target: https://fm.ci/?aHR0cHM6Ly93ZWJ3aGF0c2FwcC1oZWxwZ3VpZGUucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
    :align: center
  
 
