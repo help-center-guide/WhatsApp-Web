@@ -15,9 +15,9 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'setup.brother.com'
-copyright = '2025, setup.brother.com'
-author = 'setup.brother.com'
+project = 'web.whatsapp.com'
+copyright = '2025, web.whatsapp.com'
+author = 'web.whatsapp.com'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
@@ -28,7 +28,7 @@ release = '1.0.0'
 html_title = "Setup.brother.com - Guide to Install a brother printer to my computer"
 
 # Optional short title (e.g., for nav bar)
-html_short_title = "Guide to Install a brother printer to my computer"
+html_short_title = "How to Set Up WhatsApp Web on Your Browser via web.whatsapp.com"
 
 # Favicon (place favicon.ico in the root or _static folder)
 html_favicon = 'favicon.ico'
