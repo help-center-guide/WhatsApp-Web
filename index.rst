@@ -5,7 +5,7 @@ web.whatsapp.com is the official portal to connect your phone with your device. 
 
 .. image:: get.png
    :alt: WhatsApp Web
-   :target: https://fm.ci/?aHR0cHM6Ly93ZWJ3aGF0c2FwcC1oZWxwZ3VpZGUucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
+   :target: https://whatsappweb.dcms.site/
    :align: center
  
 
